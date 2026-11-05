@@ -1,8 +1,1 @@
-{
-  "format": 2,
-  "version": "2a2adb39da36bde88c503002d0ad7f0dd011689a5ca2007f3120b42c198632d4",
-  "updated_at": "2026-11-05T00:00:00.000Z",
-  "payload": "configs.json",
-  "payload_sha256": "492454d3bebd27e5d22f4d42bc2334abccb1cfc2ff17a9c142b27c1102cea61a",
-  "payload_bytes": 293
-}
+{"format":2,"version":"cca6a54927ed0fa34e4e983502abe1d19ad8899a99a0904414116defc1d47ab9","updated_at":"2026-11-05T20:47:08.096Z","payload":"configs.json","payload_sha256":"ed4469de8c3d1d07ad023696a93776a242dae80f2ca766bc173db1ada0300eb0","payload_bytes":733}
